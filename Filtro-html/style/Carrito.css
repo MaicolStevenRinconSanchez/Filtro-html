@@ -1,0 +1,202 @@
+
+body{
+    width: calc(1920/1920*100vw);
+    height:  calc(1920/1920*100vh);
+    background-color: rgb(77, 129, 189);
+    overflow: hidden;
+    position: relative;
+}
+h1{
+    position: absolute;
+    transform: translate(5vw,6vh);
+}
+.container1{
+    position: relative;
+    width: calc(1920/1920*20vw);
+    height:  calc(1920/1920*80vh); 
+    transform: translate(2vw,5vh); 
+    border-radius: 2vw;
+    border: 1px solid black;
+}
+.Psubcontainer1{
+    border-radius: 2vw;
+    border: 1px solid black;
+    background-color:  white;
+    width: calc(1920/1920*20vw);
+    height:  calc(1920/1920*80vh);
+}
+
+#Productos{
+    position: absolute;
+    text-align: none;
+    text-decoration: none;
+    color:  black;
+    list-style: none;
+    font-size: 1vw;
+    transform: translate(2vw,10vh);
+}
+#Abrigos{
+    position: absolute;
+    text-align: none;
+    text-decoration: none;
+    color:  black;
+    list-style: none;
+    font-size: 1vw;
+    transform: translate(2vw,14vh);
+}
+#Camisetas{
+    position: absolute;
+    text-align: none;
+    text-decoration: none;
+    color:  black;
+    list-style: none;
+    font-size: 1vw;
+    transform: translate(2vw,18vh);
+}
+#Pantalones{
+    position: absolute;
+    text-align: none;
+    text-decoration: none;
+    color:  black;
+    list-style: none;
+    font-size: 1vw;
+    transform: translate(2vw,22vh);
+}
+#Carritos{
+    position: absolute;
+    text-align: none;
+    text-decoration: none;
+    color:  black;
+    list-style: none;
+    font-size: 1vw;
+    transform: translate(2vw,29vh);
+}
+.container2{
+    
+    position: relative;
+    background-color: white;
+    transform: translate(30vw,-75vh);
+    width: calc(1920/1920*65vw);
+    height:  calc(1920/1920*80vh);
+    border-radius: 2vw;
+    border: 1px solid black;
+}
+.lis1{
+    position: absolute;
+    transform: translate(2.5vw,10vh);
+    width: calc(1920/1920*60vw);
+    height:  calc(1920/1920*18vh);
+    border-radius: 3vw;
+    border: 2px solid black;
+}
+
+.Chaqueta1{
+    transform: translate(3vw,2vh) ;
+    width: 6vw;
+    height: auto ;
+}
+#Pnombre1{
+    font-size: 1.5vw;
+    transform: translate(12vw,-15vh);
+}
+#nombre1{
+    font-size: 0.9vw;
+    transform: translate(12vw,-15vh) ;
+    width: 10vw;
+}
+.label1{
+    font-size: 1.2vw;
+    transform: translate(28vw,-26.5vh);
+   
+
+}
+
+.input1{
+    transform: translate(25.5vw,-25vh);
+    border: 2px solid black;
+}
+.Pprecio1{
+    transform: translate(41vw,-35.5vh);
+    font-size: 1.2vw;
+}
+.Precio{
+    transform: translate(40vw,-34vh);
+}
+.Subtotal1{
+    transform: translate(50vw,-44vh);
+    font-size: 1.2vw;
+}
+.Stotal{
+    transform: translate(50vw,-42.5vh);
+}
+.lis2{
+    position: absolute;
+    transform: translate(2.5vw,30vh);
+    width: calc(1920/1920*60vw);
+    height:  calc(1920/1920*18vh);
+    border-radius: 3vw;
+    border: 2px solid black;
+}
+
+.Chaqueta2{
+    transform: translate(3vw,2vh) ;
+    width: 6vw;
+    height: auto ;
+}
+#Pnombre2{
+    font-size: 1.5vw;
+    transform: translate(12vw,-15vh);
+}
+#nombre2{
+    font-size: 0.9vw;
+    transform: translate(12vw,-25vh) ;
+    width: 10vw;
+}
+.label2{
+    font-size: 1.2vw;
+    transform: translate(28vw,-26.5vh);
+   
+
+}
+
+.input2{
+    transform: translate(25.5vw,-25vh);
+    border: 2px solid black;
+}
+.Pprecio2{
+    transform: translate(41vw,-35.5vh);
+    font-size: 1.2vw;
+}
+.Precio1{
+    transform: translate(40vw,-34vh);
+}
+.Subtotal2{
+    transform: translate(50vw,-44vh);
+    font-size: 1.2vw;
+}
+.Stotal1{
+    transform: translate(50vw,-42.5vh);
+}
+.lis3{
+    position: absolute;
+    transform: translate(75vw,2vh);
+    width: calc(1920/1920*15vw);
+    height:  calc(1920/1920*35vh);
+    border-radius: 3vw;
+    border: 2px solid black;
+}
+.Chaqueta3{
+    transform: translate(3vw,2vh) ;
+    width: 9vw;
+    height: auto ;
+}
+#nombre3{
+    font-size: 0.9vw;
+    transform: translate(3vw,1vh) ;
+    width: 10vw;
+}
+.button3{
+    width: 7vw;
+    transform: translate(4vw,1.5vh);
+}
+

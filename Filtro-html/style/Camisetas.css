@@ -1,0 +1,201 @@
+
+body{
+    width: calc(1920/1920*100vw);
+    height:  calc(1920/1920*100vh);
+    background-color: rgb(77, 129, 189);
+    overflow: hidden;
+    position: relative;
+}
+h1{
+    position: absolute;
+    transform: translate(5vw,6vh);
+}
+.container1{
+    position: relative;
+    width: calc(1920/1920*20vw);
+    height:  calc(1920/1920*80vh); 
+    transform: translate(2vw,5vh); 
+    border-radius: 2vw;
+    border: 1px solid black;
+}
+.Psubcontainer1{
+    border-radius: 2vw;
+    border: 1px solid black;
+    background-color:  white;
+    width: calc(1920/1920*20vw);
+    height:  calc(1920/1920*80vh);
+}
+
+#Productos{
+    position: absolute;
+    text-align: none;
+    text-decoration: none;
+    color:  black;
+    list-style: none;
+    font-size: 1vw;
+    transform: translate(2vw,10vh);
+}
+#Abrigos{
+    position: absolute;
+    text-align: none;
+    text-decoration: none;
+    color:  black;
+    list-style: none;
+    font-size: 1vw;
+    transform: translate(2vw,14vh);
+}
+#Camisetas{
+    position: absolute;
+    text-align: none;
+    text-decoration: none;
+    color:  black;
+    list-style: none;
+    font-size: 1vw;
+    transform: translate(2vw,18vh);
+}
+#Pantalones{
+    position: absolute;
+    text-align: none;
+    text-decoration: none;
+    color:  black;
+    list-style: none;
+    font-size: 1vw;
+    transform: translate(2vw,22vh);
+}
+#Carritos{
+    position: absolute;
+    text-align: none;
+    text-decoration: none;
+    color:  black;
+    list-style: none;
+    font-size: 1vw;
+    transform: translate(2vw,29vh);
+}
+.container2{
+    
+    position: relative;
+    background-color: white;
+    transform: translate(30vw,-75vh);
+    width: calc(1920/1920*65vw);
+    height:  calc(1920/1920*80vh);
+    border-radius: 2vw;
+    border: 1px solid black;
+}
+.lis1{
+    position: absolute;
+    transform: translate(5vw,2vh);
+    width: calc(1920/1920*15vw);
+    height:  calc(1920/1920*35vh);
+    border-radius: 3vw;
+    border: 2px solid black;
+}
+.Chaqueta1{
+    transform: translate(3vw,2vh) ;
+    width: 8vw;
+    height: auto ;
+}
+#nombre1{
+    font-size: 0.9vw;
+    transform: translate(2.5vw,1vh) ;
+    width: 10vw;
+}
+.button1{
+    width: 7vw;
+    transform: translate(3.5vw,2vh);
+}
+.lis2{
+    position: absolute;
+    transform: translate(25vw,2vh);
+    width: calc(1920/1920*15vw);
+    height:  calc(1920/1920*35vh);
+    border-radius: 3vw;
+    border: 2px solid black;
+}
+.Chaqueta2{
+    transform: translate(3vw,2vh) ;
+    width: 9vw;
+    height: auto ;
+}
+#nombre2{
+    font-size: 0.9vw;
+    transform: translate(3vw,1vh) ;
+    width: 12vw;
+}
+.button2{
+    width: 7vw;
+    transform: translate(4vw,1.5vh);
+}
+.lis3{
+    position: absolute;
+    transform: translate(45vw,2vh);
+    width: calc(1920/1920*15vw);
+    height:  calc(1920/1920*35vh);
+    border-radius: 3vw;
+    border: 2px solid black;
+}
+.Chaqueta3{
+    transform: translate(3vw,2vh) ;
+    width: 9vw;
+    height: auto ;
+}
+#nombre3{
+    font-size: 0.9vw;
+    transform: translate(3vw,1vh) ;
+    width: 10vw;
+}
+.button3{
+    width: 7vw;
+    transform: translate(4vw,2vh);
+}
+.lis4{
+    position: absolute;
+    transform: translate(5vw,40vh);
+    width: calc(1920/1920*15vw);
+    height:  calc(1920/1920*35vh);
+    border-radius: 3vw;
+    border: 2px solid black;
+}
+.Chaqueta4{
+    transform: translate(3vw,2vh) ;
+    width: 9vw;
+    height: auto ;
+}
+#nombre4{
+    font-size: 0.9vw;
+    transform: translate(3.5vw,1vh) ;
+    width: 8vw;
+}
+.button4{
+    width: 7vw;
+    transform: translate(3.5vw,2vh);
+}
+.lis5{
+    position: absolute;
+    transform: translate(25vw,40vh);
+    width: calc(1920/1920*15vw);
+    height:  calc(1920/1920*35vh);
+    border-radius: 3vw;
+    border: 2px solid black;
+}
+.Chaqueta5{
+    transform: translate(3vw,2vh) ;
+    width: 9vw;
+    height: auto ;
+}
+#nombre5{
+    font-size: 0.9vw;
+    transform: translate(3.5vw,1vh) ;
+    width: 10vw;
+}
+.button5{
+    width: 7vw;
+    transform: translate(4vw,2vh);
+}
+.lis6{
+    position: absolute;
+    transform: translate(45vw,40vh);
+    width: calc(1920/1920*15vw);
+    height:  calc(1920/1920*35vh);
+    border-radius: 3vw;
+    border: 2px solid black;
+}
